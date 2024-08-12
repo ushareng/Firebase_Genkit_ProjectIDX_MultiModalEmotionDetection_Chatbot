@@ -1,8 +1,11 @@
 # Using Firebase Genkit for detecting emotions in Text , Speech and Face
 
+# Usecase :
+
+Difficulty understanding emotions in multiple modalities like Face , Speech and Text forms important markers in the diagnosis of Autism spectrum Disorder(ASD) . This project aims to help autistic individuals identify emotions in multiple modalities using Gemini .
+
 ## Demo Video
 [genkit.webm](https://github.com/user-attachments/assets/2407074a-cf99-4fbf-acb1-17a1c093a084)
-
 
 ## 
 Setting it up:
